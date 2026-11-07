@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/hcf-backend/commit/bbdc50cd1d250742234aacc2d5da10c4fe4d9508",
       "git:hexsha": "bbdc50cd1d250742234aacc2d5da10c4fe4d9508",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.6.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.6.1",
+      "repolex:parsedAt": "2026-11-07T18:13:46.850444+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/hcf-backend/commit/391f1ed87e14e3b4e58b67a9c86d8947804aa357",
